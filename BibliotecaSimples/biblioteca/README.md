@@ -32,7 +32,7 @@ Bem-vindo ao projeto de Sistema de Biblioteca, desenvolvido em Java com princíp
 
 ## Exemplo de Código
 
-### Classe Book
+### Class Book
 ```java
 public class Book {
 
@@ -99,7 +99,7 @@ public class Book {
 }
 ```
 
-### Classe Member
+### Class Member
 
 ```java
 import java.util.ArrayList;
@@ -162,7 +162,7 @@ public class Member {
 
 ```
 
-### Classe Library
+### Class Library
 
 ```java
 import java.util.ArrayList;
@@ -249,7 +249,7 @@ public class Library {
 }
 ```
 
-### Classe Main
+### Class Main
 
 ```java
 import java.util.Scanner;
